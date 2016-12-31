@@ -246,7 +246,7 @@
   <dcMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:creator />
     <dc:contributor />
-    <dc:title>King James Version + Apocrypha</dc:title>
+    <dc:title>King James Version</dc:title>
     <dc:description>The King James Version or Authorized Version of the Holy Bible, using the standardized text of 1769, with Apocrypha/Deuterocanon</dc:description>
     <dc:date>2016-03-31</dc:date>
     <dc:format>digital</dc:format>
@@ -272,5 +272,5 @@
   <langName>English</langName>
   <textDir>ltr</textDir>
   <hasNotes>True</hasNotes>
-  <coverTitle>King James Version + Apocrypha</coverTitle>
+  <coverTitle>King James Version</coverTitle>
 </vernacularParms>
